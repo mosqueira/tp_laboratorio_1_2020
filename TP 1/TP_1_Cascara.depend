@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1554432845 source:c:\users\super\documents\programacion-1-master\tp_laboratorio_1-master\tp_laboratorio_1-master\tp1_mosqueira\tp1_mosqueira\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1554433035 source:c:\users\super\documents\programacion-1-master\tp_laboratorio_1-master\tp_laboratorio_1-master\tp1_mosqueira\tp1_mosqueira\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1554432536 c:\users\super\documents\programacion-1-master\tp_laboratorio_1-master\tp_laboratorio_1-master\tp1_mosqueira\tp1_mosqueira\funciones.h
+
+1567797986 source:c:\users\super\videos\tp_laboratorio_1-master\tp_laboratorio_1-master\tp1_mosqueira\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1567798208 source:c:\users\super\videos\tp_laboratorio_1-master\tp_laboratorio_1-master\tp1_mosqueira\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1567795842 c:\users\super\videos\tp_laboratorio_1-master\tp_laboratorio_1-master\tp1_mosqueira\funciones.h
+
+1567798208 source:c:\users\super\videos\tp ex 1\2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1567798594 c:\users\super\videos\tp ex 1\2\funciones.h
+
+1567799550 source:c:\users\super\desktop\tp_lab 1\2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1567799905 source:c:\users\super\desktop\tp_lab 1\2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1567798594 c:\users\super\desktop\tp_lab 1\2\funciones.h
+
+1567785922 source:c:\users\rapidwowx\documents\tplab1-master\tplab1-master\tp_lab 1\2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1567785922 source:c:\users\rapidwowx\documents\tplab1-master\tplab1-master\tp_lab 1\2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1567785922 c:\users\rapidwowx\documents\tplab1-master\tplab1-master\tp_lab 1\2\funciones.h
+
+1567785922 source:c:\users\rapidwowx\documents\tp 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1567785922 source:c:\users\rapidwowx\documents\tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1567785922 c:\users\rapidwowx\documents\tp 1\funciones.h
+
